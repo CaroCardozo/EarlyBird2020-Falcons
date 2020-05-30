@@ -1,0 +1,20 @@
+[
+	{
+    "id": 123,
+  	"text": "An association I know is donating some, let me tell them",
+   	"author": "Larissa HS",
+    "handle": "@_larissahs"
+	},
+	{
+    "id": 456,
+  	"text": "We have to do something",
+    "author": "Caro Cardozo",
+    "handle": "@carocardozoc"
+	},
+	{
+    "id": 786,
+  	"text": "That it is so wrong",
+    "author": "Amanda Bolden",
+    "handle": "@AmandaBolden_"
+	}
+]

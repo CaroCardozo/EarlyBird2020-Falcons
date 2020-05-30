@@ -1,0 +1,21 @@
+[
+	{
+	"id": 123,
+  	"text": "Where was the last place you saw him?",
+    "author": "Caro Cardozo",
+    "handle": "@carocardozoc"
+	
+	},
+	{
+    "id": 456,
+	"text": "I am here for you",
+    "author": "Aymen",
+	"handle": "@vitaminQ01"
+	},
+	{
+    "id": 786,
+	"text": "Omg how can I help?",
+	"author": "Larissa HS",
+	"handle": "@_larissahs"
+	}
+]
